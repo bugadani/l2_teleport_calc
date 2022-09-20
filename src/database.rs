@@ -79,7 +79,7 @@ pub fn create_database() -> DiGraphMap<&'static str, usize> {
         //
         ("Giran", "Dion", 6800),
         ("Giran", "Oren", 9400),
-        ("Giran", "Hunter\'s Village", 4100),
+        // ("Giran", "Hunter\'s Village", 4100),
         ("Giran", "Hardin\'s Private Academy", 4400),
         ("Giran", "Dragon Valley", 1800),
         ("Giran", "Heine", 7600),
